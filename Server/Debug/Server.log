@@ -1,0 +1,4 @@
+﻿  Server.cpp
+D:\Courses\Semester 5\Computer Networks\Lab codes\CN Project Beta\Server\Server.cpp(138): warning C4101: 'cfd': unreferenced local variable
+D:\Courses\Semester 5\Computer Networks\Lab codes\CN Project Beta\Server\Server.cpp(139): warning C4101: 'cIPaddr': unreferenced local variable
+  Server.vcxproj -> D:\Courses\Semester 5\Computer Networks\Lab codes\CN Project Beta\Server\Debug\Server.exe
